@@ -36,6 +36,4 @@ int main(){
 		final += aa[i] * aux;
 	}
 	cout<< final;
-
-
 }
